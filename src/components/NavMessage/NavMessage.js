@@ -3,7 +3,7 @@ import "./NavMessage.css";
 
 class NavMessage extends Component {
     state = {
-        message = "",
+        message : "",
         animating: false,
     };
 
