@@ -1,13 +1,6 @@
-import React, { Component }from 'react';
-import Game from './components/Game/Game';
+import React from "react";
+import Game from "./components/Game";
 
-//const App = () => 
-  //  <div>
-  //      <Game />
-   // </div>
-function App(){
-    return <Game />;
-}
-
+const App = () => <Game />;
 
 export default App;
