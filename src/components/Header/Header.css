@@ -1,8 +1,9 @@
 .header {
-  background-color: #2C323C;
-  background-image: url("/assets/images/geometry.svg");
+  background-color: navy;
+  background-image: url("/assets/images/2019WNTWWC.png");
   background-repeat: repeat;
-  color: white;
+  color: navy;
+  text-shadow: 5px 2px goldenrod;
   min-height: 400px;
   padding: 180px 20px; 
   padding-bottom: 140px;
@@ -11,6 +12,13 @@
 
 .header h1 {
   margin: 0;
-  margin-bottom: 30px;
-  font-size: 4rem;
+  margin-bottom: 2.5px;
+  font-size: 7rem;
+  font-family: 'Luckiest Guy', cursive;
+}
+
+.header p {
+  font-size: 24px;
+  color: navy;
+  font-family: 'Rock Salt', cursive;
 }
