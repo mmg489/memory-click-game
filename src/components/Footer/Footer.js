@@ -4,7 +4,7 @@ import "./Footer.css";
 const Footer = () => (
   <footer className="footer">
     <div className="bottom">
-      Clicky Game! <img alt="react" src="assets/images/react.svg" />
+      Click Game! <img alt="react" src="assets/images/starGif.gif" />
     </div>
   </footer>
 );

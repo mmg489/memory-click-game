@@ -1,9 +1,9 @@
 .footer {
   background: 
-  #6956AF;
+  goldenrod;
   height: 100px;
   position: relative;
-  color: white;
+  color: goldenrod;
   overflow: auto;
 }
 
@@ -12,8 +12,8 @@
   bottom: 0;
   left: 0;
   right: 0;
-  background:#5138A1;
-  padding: 8px;
+  background: navy;
+  padding: 25px;
   font-weight: 600;
 }
 
