@@ -32,4 +32,16 @@ class Game extends Component {
         const resetData = data.map(item => ({ ...item, clicked: false}));
         return this.shuffleData(resetData);
     };
+
+    shuffleData = data => {
+        let i = data.length - 1;
+        while (i >0) {
+            const j =Math.floor(Math.random() * (i+ 1));
+            const temp = data[i];
+            data[i] = data[j];
+            data[j] = temp;
+            i--;
+        }
+        return data;
+    };
 }
