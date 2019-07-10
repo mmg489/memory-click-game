@@ -57,5 +57,8 @@ class Game extends Component {
             }
             return newItem;
         });
-    }
+        guessedCorrectly
+        ? this.handleCorrectGuess (newData)
+        : this.handleIncorrectGuess (newData);
+    };
 }
