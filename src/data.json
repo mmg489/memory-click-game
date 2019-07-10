@@ -11,52 +11,72 @@
   },
   {
     "id": 3,
-    "image": "/assets/images/.png",
+    "image": "/assets/images/AlyssaNaeher.png",
     "clicked": false
   },
   {
     "id": 4,
-    "image": "/assets/images/gianthead.png",
+    "image": "/assets/images/BeckySauerbrunn.png",
     "clicked": false
   },
   {
     "id": 5,
-    "image": "/assets/images/goldenford.png",
+    "image": "/assets/images/CarliLloyd.png",
     "clicked": false
   },
   {
     "id": 6,
-    "image": "/assets/images/jerry.png",
+    "image": "/assets/images/ChristenPress.png",
     "clicked": false
   },
   {
     "id": 7,
-    "image": "/assets/images/jessica.png",
+    "image": "/assets/images/CrystalDunn.png",
     "clicked": false
   },
   {
     "id": 8,
-    "image": "/assets/images/meeseeks.png",
+    "image": "/assets/images/JulieErtz.png",
     "clicked": false
   },
   {
     "id": 9,
-    "image": "/assets/images/morty.png",
+    "image": "/assets/images/KelleyOHara.png",
     "clicked": false
   },
   {
     "id": 10,
-    "image": "/assets/images/mr.png",
+    "image": "/assets/images/LindsayHoran.png",
     "clicked": false
   },
   {
     "id": 11,
-    "image": "/assets/images/rick.png",
+    "image": "/assets/images/MeganRapinoe.png",
     "clicked": false
   },
   {
     "id": 12,
-    "image": "/assets/images/summer.png",
+    "image": "/assets/images/RoseLavelle.png",
+    "clicked": false
+  },
+  {
+    "id": 13,
+    "image": "/assets/images/SamanthaMewis.png",
+    "clicked": false
+  },
+  {
+    "id": 14,
+    "image": "/assets/images/TobinHeath.png",
+    "clicked": false
+  },
+  {
+    "id": 15,
+    "image": "/assets/images/MalloryPugh.png",
+    "clicked": false
+  },
+  {
+    "id": 16,
+    "image": "/assets/images/JessicaMcDonald.png",
     "clicked": false
   }
 ]
