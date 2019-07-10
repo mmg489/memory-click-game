@@ -28,6 +28,13 @@ class Game extends Component {
         });
     };
 
+    handleIncorrectGuess = data => {
+        this.setState({
+            data: this.resetData(data),
+            score:0
+        });
+    };
+
     resetData = data => {
         const resetData = data.map(item => ({ ...item, clicked: false}));
         return this.shuffleData(resetData);
@@ -61,4 +68,27 @@ class Game extends Component {
         ? this.handleCorrectGuess (newData)
         : this.handleIncorrectGuess (newData);
     };
+
+    render () {
+        return (
+            <div>
+                <Nav Score={this.state.score} topScore={this.state.topScore} />
+                <Header />
+                <Container>
+                    {this.state.data.map(item => (
+                        <ClickItem
+                        key ={item.id}
+                        id ={item.id}
+                        shake ={!this.state.score && this.state.topScore}
+                        handleClick ={this.handleItemClick}
+                        image ={item.image}
+                        />
+                    ))}
+                </Container>
+                <Footer />
+            </div>
+        );
+    }
 }
+
+export default Game;
