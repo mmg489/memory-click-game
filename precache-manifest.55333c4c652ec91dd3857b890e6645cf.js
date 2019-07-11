@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a5bcb528453b62e1417fb19befdca3c9",
+    "revision": "e95a25c5a11df8984b8d581f584c0d2d",
     "url": "/memory-click-game/index.html"
   },
   {
-    "revision": "19fcc236dcbf81901633",
+    "revision": "66b5d273e8a30e9fcbcc",
     "url": "/memory-click-game/static/css/main.5234653b.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/memory-click-game/static/js/2.dc948b19.chunk.js"
   },
   {
-    "revision": "19fcc236dcbf81901633",
-    "url": "/memory-click-game/static/js/main.c6fef93f.chunk.js"
+    "revision": "66b5d273e8a30e9fcbcc",
+    "url": "/memory-click-game/static/js/main.a8b38fea.chunk.js"
   },
   {
     "revision": "8219c3139a714514a4a0",
