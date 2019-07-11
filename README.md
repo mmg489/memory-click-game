@@ -67,3 +67,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 #  memory-click-game
+
+![Alt text](public/assets/images/ClickyGameScreenshot.png?raw=true "ClickyGameScreenshot")
