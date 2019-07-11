@@ -1,82 +1,82 @@
 [
   {
     "id": 1,
-    "image": "/assets/images/abbyDahlkemper.png",
+    "image": "./assets/images/abbyDahlkemper.png",
     "clicked": false
   },
   {
     "id": 2,
-    "image": "/assets/images/alexmorgan.png",
+    "image": "./assets/images/alexmorgan.png",
     "clicked": false
   },
   {
     "id": 3,
-    "image": "/assets/images/alyssaNaeher.png",
+    "image": "./assets/images/alyssaNaeher.png",
     "clicked": false
   },
   {
     "id": 4,
-    "image": "/assets/images/beckySauerbrunn.png",
+    "image": "./assets/images/beckySauerbrunn.png",
     "clicked": false
   },
   {
     "id": 5,
-    "image": "/assets/images/carliLloyd.png",
+    "image": "./assets/images/carliLloyd.png",
     "clicked": false
   },
   {
     "id": 6,
-    "image": "/assets/images/christenPress.png",
+    "image": "./assets/images/christenPress.png",
     "clicked": false
   },
   {
     "id": 7,
-    "image": "/assets/images/crystalDunn.png",
+    "image": "./assets/images/crystalDunn.png",
     "clicked": false
   },
   {
     "id": 8,
-    "image": "/assets/images/julieErtz.png",
+    "image": "./assets/images/julieErtz.png",
     "clicked": false
   },
   {
     "id": 9,
-    "image": "/assets/images/kelleyOHara.png",
+    "image": "./assets/images/kelleyOHara.png",
     "clicked": false
   },
   {
     "id": 10,
-    "image": "/assets/images/lindsayHoran.png",
+    "image": "./assets/images/lindsayHoran.png",
     "clicked": false
   },
   {
     "id": 11,
-    "image": "/assets/images/meganRapinoe.png",
+    "image": "./assets/images/meganRapinoe.png",
     "clicked": false
   },
   {
     "id": 12,
-    "image": "/assets/images/roseLavelle.png",
+    "image": "./assets/images/roseLavelle.png",
     "clicked": false
   },
   {
     "id": 13,
-    "image": "/assets/images/samanthaMewis.png",
+    "image": "./assets/images/samanthaMewis.png",
     "clicked": false
   },
   {
     "id": 14,
-    "image": "/assets/images/tobinHeath.png",
+    "image": "./assets/images/tobinHeath.png",
     "clicked": false
   },
   {
     "id": 15,
-    "image": "/assets/images/malloryPugh.png",
+    "image": "./assets/images/malloryPugh.png",
     "clicked": false
   },
   {
     "id": 16,
-    "image": "/assets/images/jessicaMcDonald.png",
+    "image": "./assets/images/jessicaMcDonald.png",
     "clicked": false
   }
 ]
