@@ -1,82 +1,82 @@
 [
   {
     "id": 1,
-    "image": "./assets/images/abbyDahlkemper.png",
+    "image": "https://cdn.ussoccer.com/-/jssmedia/project/ussf/players/wnt/abby-dahlkemper/abbydahlkemper.ashx?h=580&la=en-US&w=580&rev=4065143c6371429ba66799fc652a83cc&hash=71B137D590AC6226B05134D3638CCAD9",
     "clicked": false
   },
   {
     "id": 2,
-    "image": "./assets/images/alexMorgan.png",
+    "image": "https://cdn.ussoccer.com/-/jssmedia/project/ussf/players/wnt/alex-morgan/alexmorgan.ashx?h=580&la=en-US&w=580&rev=06d49c6133914e628a07d2c8b0ac63ec&hash=22ABA61A7FE0CFD00B084F1F235C78F4",
     "clicked": false
   },
   {
     "id": 3,
-    "image": "./assets/images/alyssaNaeher.png",
+    "image": "https://cdn.ussoccer.com/-/jssmedia/project/ussf/players/wnt/alyssa-naeher/alyssanaeher.ashx?h=580&la=en-US&w=580&rev=ba7889bcd28b465f88cffaedf0da3830&hash=30B28CEABF5829A11CC2774366E716B9",
     "clicked": false
   },
   {
     "id": 4,
-    "image": "./assets/images/beckySauerbrunn.png",
+    "image": "https://cdn.ussoccer.com/-/jssmedia/project/ussf/players/wnt/becky-sauerbrunn/beckysauerbrunn.ashx?h=580&la=en-US&w=580&rev=e9b2fa2b6f484b338ec2c006b3e3944b&hash=A7B37F46A5AEF0EEFE1E8CD708596995",
     "clicked": false
   },
   {
     "id": 5,
-    "image": "./assets/images/carliLloyd.png",
+    "image": "https://cdn.ussoccer.com/-/jssmedia/project/ussf/players/wnt/carli-lloyd/carlilloyd.ashx?h=580&la=en-US&w=580&rev=e791da5a56af460ab9eb3fc906fe0951&hash=61FA686789A6BE4160906A50F7B6CF0A",
     "clicked": false
   },
   {
     "id": 6,
-    "image": "./assets/images/christenPress.png",
+    "image": "https://cdn.ussoccer.com/-/jssmedia/project/ussf/players/wnt/christen-press/christenpress.ashx?h=580&la=en-US&w=580&rev=d6db250c167045b9a296ac13032ba714&hash=29BFEF048671090CF84B7D1293C0E28A",
     "clicked": false
   },
   {
     "id": 7,
-    "image": "./assets/images/crystalDunn.png",
+    "image": "https://cdn.ussoccer.com/-/jssmedia/project/ussf/players/wnt/crystal-dunn/crystaldunn.ashx?h=580&la=en-US&w=580&rev=7812500d3b06464581f691bd4cc1406e&hash=F381E6F7DA7612BB2B754FE5BE509036",
     "clicked": false
   },
   {
     "id": 8,
-    "image": "./assets/images/julieErtz.png",
+    "image": "https://cdn.ussoccer.com/-/jssmedia/project/ussf/players/wnt/julie-ertz/julieertz.ashx?h=580&la=en-US&w=580&rev=0199d49cefe9428482333e40a8c1b39c&hash=628C741D2D48DEAFEDD420D20B04A67B",
     "clicked": false
   },
   {
     "id": 9,
-    "image": "./assets/images/kelleyOHara.png",
+    "image": "https://cdn.ussoccer.com/-/jssmedia/project/ussf/players/wnt/kelley-ohara/kelleyohara.ashx?h=580&la=en-US&w=580&rev=990250a76e1f452bbb7f4e3d1d98a616&hash=FEC0041C889F8C87ACA7489129EB24CF",
     "clicked": false
   },
   {
     "id": 10,
-    "image": "./assets/images/lindsayHoran.png",
+    "image": "https://cdn.ussoccer.com/-/jssmedia/project/ussf/players/wnt/lindsay-horan/lindsayhoran.ashx?h=580&la=en-US&w=580&rev=dfcc4b8a0dfb4903a7695de52d05fe40&hash=1230A0BAC78C61FEE070971437BC93C5",
     "clicked": false
   },
   {
     "id": 11,
-    "image": "./assets/images/meganRapinoe.png",
+    "image": "https://cdn.ussoccer.com/-/media/project/ussf/players/wnt/megan-rapinoe/meganrapinoe.ashx?h=580&la=en-US&w=580&rev=ab6d97eadbf94433a198ea5f1005e5b1&hash=719BD44A4828D8E2496AFC44F17AE80F",
     "clicked": false
   },
   {
     "id": 12,
-    "image": "./assets/images/roseLavelle.png",
+    "image": "https://cdn.ussoccer.com/-/jssmedia/project/ussf/players/wnt/rose-lavelle/roselavelle.ashx?h=580&la=en-US&w=580&rev=c029b19b97474232931246716ca3c336&hash=32317F97AABB853450327CEC44A01F7B",
     "clicked": false
   },
   {
     "id": 13,
-    "image": "./assets/images/samanthaMewis.png",
+    "image": "https://cdn.ussoccer.com/-/jssmedia/project/ussf/players/wnt/samantha-mewis/samanthamewis.ashx?h=580&la=en-US&w=580&rev=d11319107f884777b23c7a2507b8642f&hash=8EAEC59BB272BAAE1554D2CF84A582C3",
     "clicked": false
   },
   {
     "id": 14,
-    "image": "./assets/images/tobinHeath.png",
+    "image": "https://cdn.ussoccer.com/-/jssmedia/project/ussf/players/wnt/tobin-heath/tobinheath.ashx?h=580&la=en-US&w=580&rev=2f2e3af27d8b4e93b891e48e9159dd0f&hash=8E1D572E3694C9557790E32FB5E4E594",
     "clicked": false
   },
   {
     "id": 15,
-    "image": "./assets/images/malloryPugh.png",
+    "image": "https://cdn.ussoccer.com/-/jssmedia/project/ussf/players/wnt/mallory-pugh/mallorypugh.ashx?h=580&la=en-US&w=580&rev=05e1b14e279b4ebb9b2f6cacb6db2f7f&hash=63EC0DF7E6B60364A2DC60662AA8E402",
     "clicked": false
   },
   {
     "id": 16,
-    "image": "./assets/images/jessicaMcDonald.png",
+    "image": "https://cdn.ussoccer.com/-/jssmedia/project/ussf/players/wnt/jessica-mcdonald/jessica-mcdonald.ashx?h=580&la=en-US&w=580&rev=2fda774037a649bbb814e60fd45fe9c9&hash=AF9ABC430A0102E385909458CF40DB8D",
     "clicked": false
   }
 ]
