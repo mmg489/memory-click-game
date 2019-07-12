@@ -1,6 +1,6 @@
 .header {
   background-color: navy;
-  background-image: url("/assets/images/2019wntwwc.png");
+  background-image: url("../../../public/assets/images/2019wntwwc.png");
   /* background-repeat: repeat; */
   color: navy;
   text-shadow: 5px 2px goldenrod;
