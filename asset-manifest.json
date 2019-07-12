@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/memory-click-game/static/css/main.e0ba510c.chunk.css",
-    "main.js": "/memory-click-game/static/js/main.057fc265.chunk.js",
-    "main.js.map": "/memory-click-game/static/js/main.057fc265.chunk.js.map",
-    "runtime~main.js": "/memory-click-game/static/js/runtime~main.ef35aeed.js",
-    "runtime~main.js.map": "/memory-click-game/static/js/runtime~main.ef35aeed.js.map",
-    "static/js/2.dc948b19.chunk.js": "/memory-click-game/static/js/2.dc948b19.chunk.js",
-    "static/js/2.dc948b19.chunk.js.map": "/memory-click-game/static/js/2.dc948b19.chunk.js.map",
-    "index.html": "/memory-click-game/index.html",
-    "precache-manifest.00bdbc252874e4d70259cafdf747fedf.js": "/memory-click-game/precache-manifest.00bdbc252874e4d70259cafdf747fedf.js",
-    "service-worker.js": "/memory-click-game/service-worker.js",
-    "static/css/main.e0ba510c.chunk.css.map": "/memory-click-game/static/css/main.e0ba510c.chunk.css.map"
+    "main.css": "/memory-click-game/memory-click-game/static/css/main.e0ba510c.chunk.css",
+    "main.js": "/memory-click-game/memory-click-game/static/js/main.50e9aa66.chunk.js",
+    "main.js.map": "/memory-click-game/memory-click-game/static/js/main.50e9aa66.chunk.js.map",
+    "runtime~main.js": "/memory-click-game/memory-click-game/static/js/runtime~main.e428826d.js",
+    "runtime~main.js.map": "/memory-click-game/memory-click-game/static/js/runtime~main.e428826d.js.map",
+    "static/js/2.dc948b19.chunk.js": "/memory-click-game/memory-click-game/static/js/2.dc948b19.chunk.js",
+    "static/js/2.dc948b19.chunk.js.map": "/memory-click-game/memory-click-game/static/js/2.dc948b19.chunk.js.map",
+    "index.html": "/memory-click-game/memory-click-game/index.html",
+    "precache-manifest.0febd200470756f1a8e51df20a09f5ec.js": "/memory-click-game/memory-click-game/precache-manifest.0febd200470756f1a8e51df20a09f5ec.js",
+    "service-worker.js": "/memory-click-game/memory-click-game/service-worker.js",
+    "static/css/main.e0ba510c.chunk.css.map": "/memory-click-game/memory-click-game/static/css/main.e0ba510c.chunk.css.map"
   }
 }
