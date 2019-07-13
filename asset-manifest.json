@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/memory-click-game/static/css/main.4e77195a.chunk.css",
+    "main.css": "/memory-click-game/static/css/main.b991d4a4.chunk.css",
     "main.js": "/memory-click-game/static/js/main.9d862f2c.chunk.js",
     "main.js.map": "/memory-click-game/static/js/main.9d862f2c.chunk.js.map",
     "runtime~main.js": "/memory-click-game/static/js/runtime~main.ef35aeed.js",
@@ -8,8 +8,9 @@
     "static/js/2.dc948b19.chunk.js": "/memory-click-game/static/js/2.dc948b19.chunk.js",
     "static/js/2.dc948b19.chunk.js.map": "/memory-click-game/static/js/2.dc948b19.chunk.js.map",
     "index.html": "/memory-click-game/index.html",
-    "precache-manifest.ab2f6036c7fbe62b4262b95b3e21418f.js": "/memory-click-game/precache-manifest.ab2f6036c7fbe62b4262b95b3e21418f.js",
+    "precache-manifest.689b948f7157d6dd2f5e9428eb9b6b58.js": "/memory-click-game/precache-manifest.689b948f7157d6dd2f5e9428eb9b6b58.js",
     "service-worker.js": "/memory-click-game/service-worker.js",
-    "static/css/main.4e77195a.chunk.css.map": "/memory-click-game/static/css/main.4e77195a.chunk.css.map"
+    "static/css/main.b991d4a4.chunk.css.map": "/memory-click-game/static/css/main.b991d4a4.chunk.css.map",
+    "static/media/Header.css": "/memory-click-game/static/media/2019wntwwc.811c91c4.png"
   }
 }
